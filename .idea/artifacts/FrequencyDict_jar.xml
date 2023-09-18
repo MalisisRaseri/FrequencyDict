@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FrequencyDict:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FrequencyDict_jar</output-path>
+    <root id="archive" name="FrequencyDict.jar">
+      <element id="module-output" name="FrequencyDict" />
+    </root>
+  </artifact>
+</component>
