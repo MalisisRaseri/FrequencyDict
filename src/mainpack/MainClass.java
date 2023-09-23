@@ -4,8 +4,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class MainClass {
-    public static void main(String[] args) throws IOException {
-       // args = new String[]{"Lem.txt"};
+    public static void main(String[] args) {
+       // args = new String[]{"j120-lab2.txt"};
         if(args.length == 0) {
             System.out.println("Specify the file");
             return;
